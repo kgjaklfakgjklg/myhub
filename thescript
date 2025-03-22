@@ -2500,7 +2500,7 @@ end
 findGuiAndSetText()
 setnamesformoves()
 elseif game.Players.LocalPlayer.Name == "guestcoolguypro2" and not game.Players.LocalPlayer.Backpack:FindFirstChild("Normal Punch") and not game.Players.LocalPlayer.Backpack:FindFirstChild("Consecutive Punches") and not game.Players.LocalPlayer.Backpack:FindFirstChild("Shove") and not game.Players.LocalPlayer.Backpack:FindFirstChild("Uppercut") then
- -- reality = false
+reality = false
 end
 end
 end)
